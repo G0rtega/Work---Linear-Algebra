@@ -30,13 +30,14 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________________
 4) obtenha os pontos de r que equidistam das retas s e t
    r: x = y = z, s: x = (1,0,0) = λ(1,1,0) e t: x = (0,0,1) + λ(1,0,-1)
-   ![exercicio 4 a](https://github.com/user-attachments/assets/f2563614-a044-42ec-8058-7dd40b3a1372)
-   ![exercicio 4 b](https://github.com/user-attachments/assets/82b52aab-0641-4847-b53f-2a6e949902f0)
+  ![exercicio 4 a](https://github.com/user-attachments/assets/a6476f0c-f27e-47e5-adf8-7784f8261a20)
+![exercicio 4 b](https://github.com/user-attachments/assets/5d9a5b55-88b1-424d-a17d-d662d48b3673)
+
 ___________________________________________________________________________________________________________________________________________________________________________________________
 5)calcule a distancia do ponto p(0,0,-6) ao plano: x - 2y -2z - 6 = 0
 ![exercicio 5](https://github.com/user-attachments/assets/438696e9-5911-48a8-98ff-f11ae8ce7bf6)
 
 QUALQUER DUVIDA, DISPOSIÇÃO
-
+OBRIGADO
 
  
